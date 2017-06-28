@@ -1,5 +1,7 @@
 # VirtualDesktopShortcut
 
-Add a shortcut to switch desktop : Ctrl + Win + Mouse L/R button
+This program adds virtual desktop shortcuts.
 
-Use only Win10.
+Ctrl + Win + Mouse L/R button
+
+Only available on Windows 10.
